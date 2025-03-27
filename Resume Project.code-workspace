@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Resume Project",
+			"path": "../../Downloads/Java notes/Resume Project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Resume Project"
+	}
+}
